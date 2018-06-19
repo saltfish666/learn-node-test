@@ -9,5 +9,10 @@ brancher:
     - "dev"
     - "master"
 
+install:
+  - npm install
+  - npm install -g codecov
+
 script:
   - "npm run cover"
+  - codecov

@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.org/saltfish666/learn-node-test.svg?branch=master)](https://travis-ci.org/saltfish666/learn-node-test)
+[![codecov](https://codecov.io/gh/saltfish666/learn-node-test/branch/master/graph/badge.svg)](https://codecov.io/gh/saltfish666/learn-node-test)
 
 比如我们写了一个正则表达式，想匹配类似"/user/{{name}}"的url
 
