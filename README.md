@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/saltfish666/learn-node-test.svg?branch=master)](https://travis-ci.org/saltfish666/learn-node-test)
+
 比如我们写了一个正则表达式，想匹配类似"/user/{{name}}"的url
 
 写完之后如果我们自己一次次测试，那很麻烦，以后修改一下又要手动测试，
